@@ -4,7 +4,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <button>114</button>
+      <br></br>
+      <b>main</b>
+      <div>
+        <p>home</p>
+      </div>
       </header>
     </div>
   );
